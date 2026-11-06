@@ -1,0 +1,309 @@
+Álvaro Hurtado Caballero
+alvhurcab@alum.us.es
+origin	git@gitlab.com:alvhurcab/barbacoal1.git (fetch)
+origin	git@gitlab.com:alvhurcab/barbacoal1.git (push)
+upstream	https://gitlab.com/pgpi2627/barbacoaL1.git (fetch)
+upstream	https://gitlab.com/pgpi2627/barbacoaL1.git (push)
+  feat/asistentes e1cdd6b [origin/feat/asistentes] feat(asistentes): añadir a Álvaro Hurtado Caballero
+  feat/bebida     eaaba42 [origin/feat/bebida] feat(bebida): añadir tinto de verano a las bebidas
+  feat/comida     1a14dfb [origin/feat/comida] feat(comida): añadir fabada asturiana
+* main            144e84f [origin/main: ahead 82] Merge branch 'feat/materiales' into 'main'
+  feat/asistentes
+  feat/bebida
+  feat/comida
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feat/asistentes
+  remotes/origin/feat/bebida
+  remotes/origin/feat/comida
+  remotes/origin/main
+  remotes/upstream/HEAD -> upstream/main
+  remotes/upstream/main
+*   144e84f Merge branch 'feat/materiales' into 'main'
+|\  
+| * c340551 feat(materiales): añadidos vasos a la lista de materiales
+* |   f52c557 Merge branch 'docs/asignar-transporte' into 'main'
+|\ \  
+| * | 71fdf3e docs: incluirme en un vehiculo
+| |/  
+* |   e6e6dfd Merge branch 'feat/localizaciones' into 'main'
+|\ \  
+| * | 3c598a9 feat(localizaciones): añadir parque de la alquería e imagen
+| |/  
+* |   e6d92e3 Merge branch 'feat/juegos' into 'main'
+|\ \  
+| |/  
+|/|   
+| * bb6ab9c feat(juegos): Añadir ROOT
+|/  
+*   f40befb Merge branch 'feat/juegos-ruben' into 'main'
+|\  
+| * 3f2a3a3 feat(juegos): añadir Beerpong en juegos
+* |   a92c520 Merge branch 'feat/materiales-carbon' into 'main'
+|\ \  
+| * | d029dd9 feat(materiales): añadir carbón para la barbacoa
+| |/  
+* |   9a040a7 Merge branch 'feat/comida-hamburguesas' into 'main'
+|\ \  
+| * | 72d2433 feat(comida): añadir hamburguesas a los platos principales
+| |/  
+* |   2099eaf Merge branch 'feat/bebida-sangria' into 'main'
+|\ \  
+| * | 7f1773f feat(bebida): añadir sangría a las bebidas con alcohol
+| |/  
+* |   f21638d Merge branch 'dev3' into 'main'
+|\ \  
+| * | 5334adc feat(juegos): Añado juego a la lista
+| |/  
+* |   6c20a76 Merge branch 'feature/anadir-comida' into 'main'
+|\ \  
+| * | 4da5d73 docs: añado comida a barbacoa
+| |/  
+* |   d510fe8 Merge branch 'feat/bebida' into 'main'
+|\ \  
+| * | 0cfcf65 feat(bebidas): añadir fuze tea de maracuyá
+| |/  
+* |   25a2ed0 Merge branch 'docs/anadir-asistente' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 14038d8 docs: añadir mi nombre a la lista de asistentes
+* |   f241db6 Merge branch 'feature/anadir-juegos' into 'main'
+|\ \  
+| * | 0613f52 docs: añado propuesta de juego para la barbacoa
+| |/  
+* |   3f39024 Merge branch 'feat/bebida' into 'main'
+|\ \  
+| * | 0bce41d feat(bebida): añadir Fuze Tea de Limón
+| |/  
+* |   57330cb Merge branch 'dev2' into 'main'
+|\ \  
+| * | d144aed feat(comida): Añado comida a la lista
+| |/  
+* |   ec02d03 Merge branch 'feature/add-localizacion' into 'main'
+|\ \  
+| * | 45028eb feat(localizaciones): añadir Parque del Tamarguillo a Localizaciones
+| |/  
+* |   2f8949f Merge branch 'feat/asistentes' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 68f1635 feat(asistentes): añadir a Ismael Suárez a la lista de asistentes
+|/  
+*   3393784 Merge branch 'feat/asistente-ruben' into 'main'
+|\  
+| * ff89fdd docs(asistentes): añadir a Rubén Acejo Blanco
+* |   116a3a0 Merge branch 'fix/anadir-imagen-corchuela' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 6bb52e3 fix(localizaciones): añadir imagen parque corchuela
+|/  
+*   805e3e4 Merge branch 'dev1' into 'main'
+|\  
+| * 97eaceb feat(asistentes): Añado mi nombre y vehículo a asistentes
+|/  
+*   2b7868b Merge branch 'feat/juegos' into 'main'
+|\  
+| * ff54503 feat(juegos): se ha agregado unstable unicorns a la lista de juegos
+* |   8c3dbe1 Merge branch 'feature/anadir-transporte' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 8e1b5f9 docs: actualizar lista de asistentes y vehículos
+|/  
+*   45c3037 Merge branch 'feature/localizacion-francisco' into 'main'
+|\  
+| * 78735ff feat(localizaciones): añadir Parque de Oromana
+* |   67c3310 Merge branch 'feat/add-materiales-platos' into 'main'
+|\ \  
+| * | cc3f68d feat(materiales): añadir platos a materiales.
+| |/  
+* |   529275c Merge branch 'feat/añadir-juego-zombicide' into 'main'
+|\ \  
+| * | 37afbfe feat(juegos): añadir zombicide a los juegos en grupo
+| |/  
+* |   1ff73f6 Merge branch 'feat/bebida' into 'main'
+|\ \  
+| * | d41e739 feat(bebida): añadir bebida alcoholica
+| |/  
+* |   12797d7 Merge branch 'feat/asistente' into 'main'
+|\ \  
+| * | edbf558 feat(asistentes): me añado en la lista
+| |/  
+* |   c5e6704 Merge branch 'feat/bebida' into 'main'
+|\ \  
+| * | 13df917 feat(bebida): añadir agua y zumo de naranja a la lista de bebidas
+| |/  
+* |   959e77b Merge branch 'feat/asistentes' into 'main'
+|\ \  
+| * | ada4ad5 feat(asistentes): añado asistentes y transporte
+| |/  
+* |   b8fd1b6 Merge branch 'feat/bebidas' into 'main'
+|\ \  
+| * | 4bd9580 feat(bebida): añadir vodka a la lista de bebidas con alcohol
+| |/  
+* |   7ed31aa Merge branch 'feat/aportaciones' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 87770ef feat(juegos): Añadir Sudoku a juegos.adoc
+|/  
+*   76b7788 Merge branch 'feature/anadir-asistente' into 'main'
+|\  
+| * ff771d1 docs: añado mi nombre a la lista de asistentes
+* |   2eaeaeb Merge branch 'feat/aportaciones' into 'main'
+|\ \  
+| * | fd9833e feat(bebidas): Añadir Ron Barceló a la lista de bebidas
+| |/  
+* |   5ae1294 Merge branch 'feat/localizaciones' into 'main'
+|\ \  
+| * | ba00595 feat(localizaciones): Se añade a la lista localizaciones.adoc el Parque del Alamillo y su imagen
+| |/  
+* |   0d7f033 Merge branch 'feat/juegos' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 276a2d7 feat(juegos): añadir petanca a juegos
+|/  
+*   f34f461 Merge branch 'feat/bebida' into 'main'
+|\  
+| * eb1f062 feat(bebida): añadir zumo de piña a bebidas sin alcohol
+* |   7433b0a Merge branch 'feat/comida' into 'main'
+|\ \  
+| * | 1a14dfb feat(comida): añadir fabada asturiana
+| |/  
+* |   7fced8b Merge branch 'feat/add-localizacion-ParquePorzuna' into 'main'
+|\ \  
+| * | bfb62f5 feat(localizaciones): añadir Parque Porzuna a localizaciones
+| |/  
+* |   58f099c Merge branch 'feat/asistentes' into 'main'
+|\ \  
+| * | c06b99b feat(asistentes): Miguel Toro en lista de asistentes y Skoda agregado
+| |/  
+* |   3062f9a Merge branch 'fix/correccion-propuesta' into 'main'
+|\ \  
+| * | 7b5f8e0 feat(materiales): añadir cucharas a los materiales de cocina
+| |/  
+* |   d637723 Merge branch 'feat/juegos' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 4bd8a2e feat(juegos): Se añade en la lista juegos.adoc el juego Zafarrancho
+|/  
+*   52c703b Merge branch 'feat/materiales' into 'main'
+|\  
+| * e381068 Feat(materiales): añadimos sillas a los materiales
+* |   f92199e Merge branch 'feat/add-comida-TartaDeQueso' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 0d6970d feat(comida): añadir Tarta de queso a comida.
+* |   4efef8b Merge branch 'feat/bebidas' into 'main'
+|\ \  
+| |/  
+|/|   
+| * cdc6733 feat(bebidas): Se añade a bebidas.adoc Agua con gas a la lista
+|/  
+*   7ed9c70 Merge branch 'feat/asistentes' into 'main'
+|\  
+| * cdf51d1 feat(asistentes): Se añade a asistentes.adoc a Diego Martín Rodríguez y su transporte MINI Cooper
+* |   75106c8 Merge branch 'feat/comida' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 692dbbc feat: añadir fuet como entrante
+* |   b242102 Merge branch 'feat/add-bebida-CocaCola' into 'main'
+|\ \  
+| * | 6e78acc Feat/add bebida cocacola
+* | |   1c4e012 Merge branch 'feat/juegos' into 'main'
+|\ \ \  
+| * | | c7cc206 feat(juegos): añadimos bang a la lista
+| |/ /  
+* | |   e0fa81e Merge branch 'feat/anadir-asistente' into 'main'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 8985be5 feat(asistentes): anadir a Irene a la lista
+| |/  
+* |   8cd56d1 Merge branch 'feature/add-comida' into 'main'
+|\ \  
+| |/  
+|/|   
+| * c9b0867 feat(comida): añadir nachos con queso a la lista de aperitivos
+|/  
+*   5770c77 Merge branch 'feat/asistente-raul' into 'main'
+|\  
+| * 77c691b feat(asistentes): añadimos asistente raul a la lista
+* |   ce663a4 Merge branch 'feat/comida' into 'main'
+|\ \  
+| * | 53535da feat(comida): añadir secreto ibérico
+| |/  
+* |   5bef95d Merge branch 'feature/juegos' into 'main'
+|\ \  
+| |/  
+|/|   
+| * f2bc582 feat(juegos): añadir propuesta de juego
+|/  
+*   2fe22ba Merge branch 'feat/add-juego-UNO' into 'main'
+|\  
+| * 8410ae0 feat(juegos): añadir UNO a juegos
+* |   213617c Merge branch 'feature/bebida' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 651f3a1 feat(bebida): añadir bebida
+|/  
+*   a179adc Merge branch 'feat/bebida' into 'main'
+|\  
+| * eaaba42 feat(bebida): añadir tinto de verano a las bebidas
+* |   b2bda6b Merge branch 'feature/asistentes' into 'main'
+|\ \  
+| * | b94e7d4 fix(merge): Resueltos los conflictos con el archivo asistentes
+| |/  
+* |   38e061e Merge branch 'feat/add-asistente-Yiqiang' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 8023646 feat(asistentes): añadir a Yiqiang Wu y confirmar plaza de transporte
+|/  
+*   52afc29 Merge branch 'main' into 'main'
+|\  
+| * a8a4157 fix(asistentes): añadir alvaro a lista
+* |   210a48e Merge branch 'feat/asistentes-jairo' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 9b748ec Feat/asistentes jairo
+|/  
+*   7beecad Merge branch 'main' into 'main'
+|\  
+| * 0e4450d feat(asistentes): añadir Gloria a asistentes
+|/  
+*   989767a Merge branch 'feature/add-asistente' into 'main'
+|\  
+| * fe91405 feat(asistentes): incluir a Fernando Rodríguez en la lista de asistentes y coche
+* |   09c4a8c Merge branch 'feat/asistentes' into 'main'
+|\ \  
+| |/  
+|/|   
+| * e1cdd6b feat(asistentes): añadir a Álvaro Hurtado Caballero
+* |   2d4ff43 Merge branch 'feature/add-asistente' into 'main'
+|\ \  
+| |/  
+|/|   
+| * a92944a Feature/add asistente
+|/  
+*   96c7a22 Merge branch 'feat/asistentes' into 'main'
+|\  
+| * 782ae96 feat(asistentes): añadir a Pablo Hurtado y vehículo Toyota Corolla
+|/  
+* 2920974 Ficheros iniciales
+* remote upstream
+  Fetch URL: https://gitlab.com/pgpi2627/barbacoaL1.git
+  Push  URL: https://gitlab.com/pgpi2627/barbacoaL1.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
